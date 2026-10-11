@@ -1,0 +1,2 @@
+# Workflows run with this repo's secrets, so changes to them need the owner.
+/.github/ @timskillet
